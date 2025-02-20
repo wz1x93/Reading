@@ -11,6 +11,7 @@ This is my reading journal, where I record the main content, characters relation
 |[月亮与六便士](./2024/001.md)|202409|Audio book|Done|
 |[素食者](./2024/002.md)|202410|Audio book|Done|
 |[乌合之众](./2024/003.md)|202408|Paper book|Done|
+|[美国四百年](./2025/001.md)|202501|Audio book|Done|
 
 # Git
 ```
